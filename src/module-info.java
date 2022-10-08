@@ -1,0 +1,2 @@
+module exercicioCursoJava_Composicao {
+}
